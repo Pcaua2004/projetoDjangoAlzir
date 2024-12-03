@@ -11,7 +11,7 @@ Siga os passos abaixo para configurar o ambiente virtual e executar o servidor l
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/cauamapurunga/hello_app.git
+   git clone https://github.com/kayocavalcantte/EstudoDjango
    ```
 
 2. Ative o ambiente virtual:
